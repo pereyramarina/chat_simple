@@ -1,0 +1,14 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Chat simple utilizando HTML, CSS, JavaScript y WebSockets con Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.2.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
